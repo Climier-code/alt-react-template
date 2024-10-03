@@ -42,4 +42,3 @@
 - HTTP w/server: axios v1.7 + TanStack Query v5
 - Package Manger: pnpm
 - Code Rule & Formatting: Prettier, eslint
-# alt-react-template
