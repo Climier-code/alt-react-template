@@ -33,12 +33,12 @@
 
 ## 기술 스택
 
-- Node.js v20.15.1
-- Base: React v18
-- Bundler: Vite v5
+- Node.js v24.11.1
+- Base: React v19
+- Bundler: Vite v7
 - Language: TypeScript v5
 - Styling: styled-components v6
-- Status Management: zustand v4
-- HTTP w/server: axios v1.7 + TanStack Query v5
+- Status Management: zustand v5
+- HTTP w/server: axios v1.13 + TanStack Query v5
 - Package Manger: pnpm
 - Code Rule & Formatting: Prettier, eslint
